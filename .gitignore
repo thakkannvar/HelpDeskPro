@@ -3,16 +3,13 @@ venv/
 __pycache__/
 *.pyc
 
-# Environment variables
+# Environment
 .env
-
-# Django
-db.sqlite3
-staticfiles/
 
 # React
 node_modules/
 dist/
 
-# IDE
-.vscode/
+# Django
+db.sqlite3
+staticfiles/
